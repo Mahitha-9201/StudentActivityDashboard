@@ -20,7 +20,7 @@ This project is an end-to-end application that tracks, stores, and analyzes stud
 - **Backend:** Spring Boot (Java), RESTful APIs
 - **Database:** SQL (PostgreSQL/MySQL/SQL Server)
 - **Frontend:** React.js with data visualization (Chart.js, Recharts)
-- **API Integration:** Canvas LMS REST API (optional)
+- **API Integration:** Canvas LMS REST API
 - **Data Import/Export:** Supports bulk data operations via CSV or JSON
 
 ---
