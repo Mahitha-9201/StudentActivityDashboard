@@ -1,10 +1,11 @@
 # Student Analytics Dashboard and Data Storage System
 
+## Overview
 This project is an end-to-end application that tracks, stores, and analyzes student activity data from an LMS (e.g., Canvas). It includes a robust SQL backend, REST APIs for data handling, and an analytics dashboard to visualize both high-level course trends and granular, student-specific engagement data.
 
 ---
 
-## **Features**
+## Features
 - **Backend:** SQL database for secure and scalable data storage.
 - **REST API Layer:** CRUD operations to manage activity data efficiently.
 - **Dashboard:** Interactive data visualization for faculty and admins.
@@ -16,21 +17,26 @@ This project is an end-to-end application that tracks, stores, and analyzes stud
 
 ---
 
-## **Technologies Used**
-- **Backend:** Spring Boot (Java), RESTful APIs
+## Technologies Used
+- **Backend:** Python (Flask), RESTful APIs
 - **Database:** SQL (PostgreSQL/MySQL/SQL Server)
-- **Frontend:** React.js with data visualization (Chart.js, Recharts)
+- **Frontend:** React.js, Tailwind CSS, with data visualization (Chart.js, Recharts)
 - **API Integration:** Canvas LMS REST API
 - **Data Import/Export:** Supports bulk data operations via CSV or JSON
 
 ---
 
-## **Setup Instructions**
+## Setup Instructions
 
-### **Prerequisites**
+### Prerequisites
 Ensure the following are installed:
-- Java 11+
+- Python 3.9+
 - SQL database (PostgreSQL, MySQL, or SQL Server)
-- Maven (for Java builds)
+- Pipenv or virtualenv (for Python dependency management)
 - Node.js and npm (for frontend development)
+- Docker (optional, for containerized deployment)
+
+
+## License
+This project is licensed under the MIT License.
 
