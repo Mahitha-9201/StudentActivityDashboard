@@ -21,7 +21,7 @@ This project is an end-to-end application that tracks, stores, and analyzes stud
 - **Backend:** Python (Flask), RESTful APIs
 - **Database:** SQL (PostgreSQL/MySQL/SQL Server)
 - **Frontend:** React.js, Tailwind CSS, with data visualization (Chart.js, Recharts)
-- **API Integration:** Canvas LMS REST API
+- **API Integration:** LMS(Blackboard, Canvas) REST API
 - **Data Import/Export:** Supports bulk data operations via CSV or JSON
 
 ---
